@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+## gif-search-app
+-Frank Edison Pumayalli Cusicuna
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
